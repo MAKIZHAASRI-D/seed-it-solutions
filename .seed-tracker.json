@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-24T10:42:04.252Z",
+  "lastSynced": "2026-09-24T10:44:22.840Z",
   "problems": {
     "Q0.3": {
       "questionId": "Q0.3",
@@ -33,9 +33,10 @@
       "difficulty": "Medium",
       "folderPath": "Problems/general/q0-11-basic-level-0-datatypes-11",
       "languages": [
-        "c"
+        "c",
+        "java"
       ],
-      "lastSolvedAt": "2026-09-24T10:36:54.571Z"
+      "lastSolvedAt": "2026-09-24T10:44:22.840Z"
     }
   }
 }
