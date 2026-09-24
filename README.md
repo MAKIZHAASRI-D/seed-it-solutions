@@ -9,23 +9,24 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 ### 💻 Languages Breakdown
 
 - **C**: 3 solutions
+- **JAVA**: 1 solution
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-24 | [Q0.3 - Basic_level_0_Datatypes_3](./Problems/general/q0-3-basic-level-0-datatypes-3) | General | `Medium` | c, java | [View](./Problems/general/q0-3-basic-level-0-datatypes-3) |
 | 2026-09-24 | [Q0.11 - Basic_level_0_Datatypes_11](./Problems/general/q0-11-basic-level-0-datatypes-11) | General | `Medium` | c | [View](./Problems/general/q0-11-basic-level-0-datatypes-11) |
 | 2026-09-24 | [Q0.4 - Basic_level_0_Datatypes_4](./Problems/general/q0-4-basic-level-0-datatypes-4) | General | `Medium` | c | [View](./Problems/general/q0-4-basic-level-0-datatypes-4) |
-| 2026-09-24 | [Q0.3 - Basic_level_0_Datatypes_3](./Problems/general/q0-3-basic-level-0-datatypes-3) | General | `Medium` | c | [View](./Problems/general/q0-3-basic-level-0-datatypes-3) |
 
 ## 📂 Problem Index by Topic
 
 <details>
 <summary><b>📁 General (3 Problems)</b></summary>
 
+- [Q0.3 - Basic_level_0_Datatypes_3](./Problems/general/q0-3-basic-level-0-datatypes-3) — `Medium`
 - [Q0.11 - Basic_level_0_Datatypes_11](./Problems/general/q0-11-basic-level-0-datatypes-11) — `Medium`
 - [Q0.4 - Basic_level_0_Datatypes_4](./Problems/general/q0-4-basic-level-0-datatypes-4) — `Medium`
-- [Q0.3 - Basic_level_0_Datatypes_3](./Problems/general/q0-3-basic-level-0-datatypes-3) — `Medium`
 
 </details>
 
